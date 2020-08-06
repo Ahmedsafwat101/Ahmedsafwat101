@@ -126,4 +126,4 @@ main :: func(): void {
 <br />
 <br />
 
-https://visitor-badge.laobi.icu/badge?page_id=AhmedSafwat101
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=AhmedSafwat101)
