@@ -53,7 +53,7 @@ main :: func(): void {
 }
 ```
 
-## I can speak
+## I can speak/use
 
 <table>
   <tbody>
@@ -79,7 +79,7 @@ main :: func(): void {
         <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/c.svg">
       </td>
         <td width="25%" align="center">
         <img height="64px" src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg">
