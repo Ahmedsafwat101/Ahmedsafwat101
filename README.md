@@ -20,7 +20,6 @@ You can use the website to generate badges: https://shields.io/
 - Ask me about anything, I am happy to help.
 - Fun-Fact: I was a mechanical engineering before becoming a software engineer.
 - How to reach me: __Ahmed.abdelfaheem@gmail.ocm__
-- [![Resume](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Ahmedsafwat101)
 
 
 ---
