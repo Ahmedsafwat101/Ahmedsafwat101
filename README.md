@@ -11,19 +11,24 @@ You can use the website to generate badges: https://shields.io/
 [![Resume](https://img.shields.io/badge/LeetCode-<COLOR>.svg)](https://leetcode.com/ahmedsafwat172/)
 
 
+
+        
+
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
+
+<h3> 👨🏻‍💻 About Me </h3>
+
+- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
+- 🎓 &nbsp; I’m currently undergrad student at SJSU in CA & ASU in Egypt
+- 💼 &nbsp; Android developer and front-end web developer.
+- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
+- ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
+- ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
+- How to reach me: __Ahmed.abdelfaheem@gmail.ocm__
 &nbsp;
 
-<!-- Talking about you -->
-**About Me:**
-- I’m currently undergrad student at SJSU in CA & ASU in Egypt
-- I’m currently learning __Kotlin__, __React.js__
-- I’m looking to collaborate on anything!
-- Ask me about anything, I am happy to help.
-- Fun-Fact: I was a mechanical engineering before becoming a software engineer.
-- How to reach me: __Ahmed.abdelfaheem@gmail.ocm__
 
-
----
 
 **Languages and Tools:**
 
@@ -69,8 +74,6 @@ You can use the website to generate badges: https://shields.io/
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ahmedsafwat101&show_icons=true&hide_border=true)
-<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedsafwat101&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Ahmedsafwat101/github-readme-stats)
 <br/>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AhmedSafwat101)
 
