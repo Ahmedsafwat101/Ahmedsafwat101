@@ -12,7 +12,7 @@ You can use the website to generate badges: https://shields.io/
 
 <!-- Talking about you -->
 **About Me:**
-
+- I’m currently undergrad student at SJSU in CA & ASU in Egypt
 - I’m currently learning __Kotlin__, __React.js__
 - I’m looking to collaborate on anything!
 - Ask me about anything, I am happy to help.
