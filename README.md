@@ -70,5 +70,7 @@ You can use the website to generate badges: https://shields.io/
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ahmedsafwat101&show_icons=true&hide_border=true)
 <br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmedsafwat101&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/Ahmedsafwat101/github-readme-stats)
+<br/>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AhmedSafwat101)
 
