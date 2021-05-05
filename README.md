@@ -1,129 +1,71 @@
- <p align="center">
- <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="Github Readme Stats" />
- <h2 align="center">Profile</h2>
-</p>
+<!-- Your title -->
+## Hello, I'm Ahmed!
 
-### Hi there 👋 I am [Ahmed Safwat](https://github.com/Ahmedsafwat101)
-
-<a href="https://www.linkedin.com/in/ahmedsafwat101/">
-  <img align="left" alt="Ahmed's LinkdeIN" width="22px" src="https://cdn.worldvectorlogo.com/logos/linkedin-icon-2.svg" />
-</a>
-<a href="https://leetcode.com/ahmedsafwat172/">
-  <img align="left" alt="Ahmed's Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
-</a>
-
-<br />
-<br />
-<!--
-**AhmedSafwta101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Your badges
+You can use the website to generate badges: https://shields.io/
 -->
 
-<div>
- <p>
+[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)](https://zachayers.io)
+[![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/zjayers)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/zjayers/)
 
-Energetic and passionate college fourth-year software engineering student at Ain Shams University. Aiming to use my knowledge that I have acquired from my coursework in San Jose State University and Ain Shams University as well as self-study and with my hard work to satisfy my internship at as softwaer engineer and willing to learn more from this chance. 
+&nbsp;
 
-I am always on the lookout for new projects to work on and new people to collaborate with. Do check out my repositories and feel free to reach out if you would like to work on any of my existing projects or if you think that I would be a good fit in your project.
+<!-- Talking about you -->
+**About Me:**
 
-</h4>
-</div>
+- I’m currently learning __Kotlin__, __React.js__
+- I’m looking to collaborate on anything!
+- Ask me about anything, I am happy to help.
+- Fun-Fact: I was a mechanical engineering before becoming a software engineer.
+- How to reach me: __Ahmed.abdelfaheem@gmail.ocm__
 
-```julia
-module main
+---
 
-aboutMe :: struct {
-  pronouns :: string[];
-  languages :: string[];
-  hobbies :: string[];
-  funFact :: string;
-}
+**Languages and Tools:**
 
-main :: func(): void {
-  Ahmed :: aboutMe = {
-    pronouns: ["He", "Him"],
-    languages: ["C", "C#", "Java", "Python","PHP","HTML","CSS","javaScript"],
-    hobbies: ["Coding", "Gaming", "Talking"],
-    funFact: "The first computer virus was created in 1983! ;)"
-  };
+  <br />
+  <br />
 
-  println "Pronouns: ${Ahmed.pronouns}";
-  println "Languages I Know: ${Ahmed.languages}";
-  println "My Hobbies: ${Ahmed.hobbies}";
-  println "Fun Fact: ${Ahmed.funFact}";
-}
-```
+  <code><img width="8%"  src="https://cdn.worldvectorlogo.com/logos/c.svg"></code>
+  <code><img width="8%"  src="https://cdn.svgporn.com/logos/c.svg"></code>
+  <code><img width="8%"  src="https://cdn.svgporn.com/logos/c-sharp.svg"></code>
 
-## I can speak/use
+<p>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/c.svg">
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/c-sharp.svg">
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/java.svg">
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/python.svg">
-      </td>
-    </tr>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <img height="64px"  src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg">
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/c.svg">
-      </td>
-        <td width="25%" align="center">
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg">
-      </td>
-       <tr valign="top">
-      <td width="25%" align="center">
-        <img height="64px"  src="https://cdn.worldvectorlogo.com/logos/php.svg">
-      </td>
-      <td width="25%" align="center">
-        <img height="64px"  src="https://cdn.worldvectorlogo.com/logos/javascript-1.svg">
-      </td>  
-       <td width="25=%" align="center">
-        <img height="64px"  src="https://cdn.worldvectorlogo.com/logos/html-5.svg">
-      </td>
-      <td width="25%" align="center">
-        <img height="64px"  src="https://cdn.worldvectorlogo.com/logos/css-3.svg">
-      </td>  
-    </tr>
-  </tbody>
-</table>
+  <br />
+   <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-ar21.svg"></code>
+  <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/postgresql/postgresql-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/sqlite/sqlite-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/oracle/oracle-ar21.svg"></code>
+  <br />
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/android/android-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-ar21.svg"></code>
 
-# What I am learning 
-<table>
-  <tbody>
-    <tr valign="top">
-      <td width="25%" align="center">
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/react-2.svg">
-      </td>
-      <td width="25%" align="center">
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg">
-      </td>
-    </tr>
-  </tbody>
-</table>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/figma/figma-ar21.svg"></code>
+  <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
-# My Stats
+
+
+</p>
+
+---
+
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=Ahmedsafwat101&show_icons=true&hide_border=true)
-
-<br />
-<br />
-
-![picture](https://raw.githubusercontent.com/saadeghi/saadeghi/master/dino.gif)
-<br />
-<br />
-
+<br/>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AhmedSafwat101)
+
