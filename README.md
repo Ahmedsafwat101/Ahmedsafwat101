@@ -7,6 +7,8 @@ You can use the website to generate badges: https://shields.io/
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Ahmedsafwat101)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedsafwat101)
+[![Resume](https://img.shields.io/badge/Resume-Open-<COLOR>.svg)](https://drive.google.com/file/d/1Qp93JU_h-igL1Kn3spHQ8-F4EqDOZunk/view?usp=sharing)
+
 
 &nbsp;
 
@@ -18,6 +20,8 @@ You can use the website to generate badges: https://shields.io/
 - Ask me about anything, I am happy to help.
 - Fun-Fact: I was a mechanical engineering before becoming a software engineer.
 - How to reach me: __Ahmed.abdelfaheem@gmail.ocm__
+- [![Resume](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Ahmedsafwat101)
+
 
 ---
 
