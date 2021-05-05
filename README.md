@@ -46,7 +46,6 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/golang/golang-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/php/php-ar21.svg"></code>
-
   <br />
    <code><img width="15%" src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-ar21.svg"></code>
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/netlifyapp_watercss/netlifyapp_watercss-ar21.svg"></code>
