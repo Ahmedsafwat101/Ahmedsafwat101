@@ -18,7 +18,7 @@ You can use the website to generate badges: https://shields.io/
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Flutter Application Development
+- 🔭 &nbsp; I’m currently learning Mobile (Kotlin/Java/ReactNative) Application Development
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; I’m currently undergrad student at SJSU in CA & ASU in Egypt
 - 💼 &nbsp; Android developer and front-end web developer.
