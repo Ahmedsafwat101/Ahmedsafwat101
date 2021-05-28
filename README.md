@@ -8,7 +8,7 @@ You can use the website to generate badges: https://shields.io/
 [![Github](https://img.shields.io/badge/-Github-000?style=flat&logo=Github&logoColor=white)](https://github.com/Ahmedsafwat101)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedsafwat101)
 [![Resume](https://img.shields.io/badge/Resume-<COLOR>.svg)](https://drive.google.com/file/d/1Qp93JU_h-igL1Kn3spHQ8-F4EqDOZunk/view?usp=sharing)
-[![Resume](https://img.shields.io/badge/LeetCode-<COLOR>.svg)](https://leetcode.com/ahmedsafwat172/)
+[![Resume](https://img.shields.io/badge/LeetCode-<COLOR>.svg)](https://leetcode.com/Safwatzzz/)
 
 
 
