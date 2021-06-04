@@ -25,7 +25,7 @@ You can use the website to generate badges: https://shields.io/
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
-- How to reach me: __Ahmed.abdelfaheem@gmail.ocm__
+- How to reach me: __Ahmed.abdelfaheem@gmail.com__
 &nbsp;
 
 
