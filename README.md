@@ -1,6 +1,7 @@
 <!-- Your title -->
 ## Hello, I'm Ahmed!
 
+<img src="https://github-profile-trophy.vercel.app/?username=ahmedsafwat101&row=1&column=6" alt="ahmed" />
 <!-- Your badges
 You can use the website to generate badges: https://shields.io/
 -->
