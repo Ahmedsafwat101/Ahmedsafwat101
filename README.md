@@ -76,6 +76,6 @@ You can use the website to generate badges: https://shields.io/
 ---
 
 
- ![Snake animation](https://github.com/alexianaa/alexianaa/blob/output/github-contribution-grid-snake.svg)
+ ![Snake animation](https://github.com/ahmedsafwat101/alexianaa/blob/output/github-contribution-grid-snake.svg)
 <br/>
 
