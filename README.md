@@ -1,3 +1,5 @@
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=AhmedSafwat101)
+
 <!-- Your title -->
 ## Hello, I'm Ahmed!
 
@@ -77,5 +79,4 @@ You can use the website to generate badges: https://shields.io/
 
  ![Snake animation](https://github.com/alexianaa/alexianaa/blob/output/github-contribution-grid-snake.svg)
 <br/>
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=AhmedSafwat101)
 
