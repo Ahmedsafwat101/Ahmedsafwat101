@@ -75,7 +75,7 @@ You can use the website to generate badges: https://shields.io/
 ---
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Ahmedsafwat101&show_icons=true&hide_border=true)
+ ![Snake animation](https://github.com/alexianaa/alexianaa/blob/output/github-contribution-grid-snake.svg)
 <br/>
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=AhmedSafwat101)
 
