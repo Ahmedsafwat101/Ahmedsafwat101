@@ -3,18 +3,16 @@
 <!-- Your title -->
 ## Hello, I'm Ahmed!
 
-<img src="https://github-profile-trophy.vercel.app/?username=ahmedsafwat101&row=1&column=6" alt="ahmed" />
-<!-- Your badges
-You can use the website to generate badges: https://shields.io/
--->
+<p align="center">
+  <a href="https://github.com/ahmedsafwat101/github-widgetbox">
+    <img width="70%" height="70%" src="https://github-widgetbox.vercel.app/api/profile?username=ahmedsafwat101&data=followers,repositories,stars,commits" alt="GitHub WidgetBox" />
+  </a>
+</p>
 
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ahmedsafwat101)
 [![Resume](https://img.shields.io/badge/Resume-<COLOR>.svg)](https://drive.google.com/file/d/1Qp93JU_h-igL1Kn3spHQ8-F4EqDOZunk/view?usp=sharing)
 [![Resume](https://img.shields.io/badge/LeetCode-<COLOR>.svg)](https://leetcode.com/Safwatzzz/)
-
-
-
-        
+     
 
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
@@ -70,7 +68,6 @@ You can use the website to generate badges: https://shields.io/
   <code><img width="15%" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
 
 
-
 </p>
 
 ---
@@ -78,4 +75,10 @@ You can use the website to generate badges: https://shields.io/
 
  ![Snake animation](https://github.com/ahmedsafwat101/ahmedsafwat101/blob/output/github-contribution-grid-snake.svg)
 <br/>
+
+
+<img src="https://github-profile-trophy.vercel.app/?username=ahmedsafwat101&row=1&column=6" alt="ahmed" />
+<!-- Your badges
+You can use the website to generate badges: https://shields.io/
+-->
 
