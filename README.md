@@ -3,6 +3,9 @@
 <!-- Your title -->
 ## Hello, I'm Ahmed!
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Egyption+Software+Engineer;Backend-Developer+;Mobile-Developer;and+Technopreneur!;Nice+to+meet+you...)](https://git.io/typing-svg)
+
+
 <p align="center">
   <a href="https://github.com/ahmedsafwat101/github-widgetbox">
     <img width="70%" height="70%" src="https://github-widgetbox.vercel.app/api/profile?username=ahmedsafwat101&data=followers,repositories,stars,commits" alt="GitHub WidgetBox" />
