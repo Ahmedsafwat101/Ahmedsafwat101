@@ -21,7 +21,7 @@
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently learning Backend (NodeJS /.NET)
+- 🔭 &nbsp; I’m currently learning Backend (Spring/NodeJS)
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
 - 🎓 &nbsp; I’m currently undergrad student at SJSU in CA & ASU in Egypt
 - 💼 &nbsp; Android developer and front-end web developer.
