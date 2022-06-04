@@ -23,8 +23,8 @@
 
 - 🔭 &nbsp; I’m currently learning Backend (Spring/NodeJS)
 - 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; I’m currently undergrad student at SJSU in CA & ASU in Egypt
-- 💼 &nbsp; Android developer and front-end web developer.
+- 🎓 &nbsp; I’m fresh grad from SJSU in CA & ASU in Egypt
+- 💼 &nbsp; Backend developer and front-end web developer.
 - 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence .
 - ✍️ &nbsp; Watching Anime and trying out latest design trends as hobbies/side hustles.
 - ☕ &nbsp; I belive, a perfect cup of coffee can be the ultimate solution for any stress. 
